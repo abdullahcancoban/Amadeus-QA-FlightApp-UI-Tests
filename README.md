@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">
 <br>
-automationexercise.com Case 1
+Amadeus QA Test Study UI Tests
 </h1>
 <h3 align="center">🚀 Developed with the software and tools below.</h3>
 <p align="center">
